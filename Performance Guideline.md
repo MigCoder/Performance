@@ -55,11 +55,11 @@ B：
 
 A:
 
-![Alt text](http://github.com/ilovezcd/performance/raw/master/images/1.jpg)
+![](https://github.com/ilovezcd/Performance/blob/master/Images/1.jpg)
 
 B:
 
-![Alt text](images/2.jpg)
+![](https://github.com/ilovezcd/Performance/blob/master/Images/2.jpg)
 
 导致这么大差异的问题在于 A 版本的执行过程中 CPU 缓存一直命中率低，现代 CPU 在获取内存中数据时，都是以块为单位，而不是以字节。
 
@@ -76,11 +76,11 @@ CPU 会尝试预测代码想要访问的数据，以块为单位将其预先加�
 
 引用类型：
 
-![Alt text](images/4.jpg)
+![](https://github.com/ilovezcd/Performance/blob/master/Images/4.jpg)
 
 值类型：
 
-![Alt text](images/5.jpg)
+![](https://github.com/ilovezcd/Performance/blob/master/Images/5.jpg)
 
 可以看出引用类型比值类型多出了两个字段：
 
@@ -94,7 +94,7 @@ Object Header Word 的用处比较多，例如线程同步，类型信息指针�
 
 装箱能够赋予值类型以上两个字段，也就可以调用从 **System.ValueType** 继承来的方法了：
 
-![Alt text](images/6.jpg)
+![](https://github.com/ilovezcd/Performance/blob/master/Images/6.jpg)
 
 注意装箱后值类型实例本身没有消失，而是被**复制**了一份到“箱子”中，所以值类型装箱会导致性能下降，当值类型的字段越多的时候性能下降越明显。
 ####2.1.4 使用 IL constrained 指令避免装箱
@@ -133,16 +133,17 @@ Object Header Word 的用处比较多，例如线程同步，类型信息指针�
 	}
 这是性能对比，其实提升不是很明显：
 
-![Alt text](images/10.jpg)
+![](https://github.com/ilovezcd/Performance/blob/master/Images/10.jpg)
 
-![Alt text](images/11.jpg)
+![](https://github.com/ilovezcd/Performance/blob/master/Images/11.jpg)
 
 ###三. I/O Performance#
 .Net Framework 提供了很方便的文件管理类库，主要的类是 FileStream 文件流，使用它有几个点需要特别注意。
 
 ####3.1 缓存 I/O 与无缓存 I/O。
 当我们调用 FileStream.Read 读取数据的时候，其实不是简单的打开文件读取字节这么简单，中间要经过 Windows File Cache> HostBus Cache> Disk Cache 总共三层缓存，我们能干预的只有 Windows File Cache。
-![Alt text](images/3.png)
+
+![](https://github.com/ilovezcd/Performance/blob/master/Images/3.png)
 
 Window File Cache 缓存存在的目的是减少硬盘读写命令的调用次数，如果每次读取文件都是一个字节，而又禁用了 Windows File Cache，那就意味着每个字节都需要发出一次实际的硬盘读写命令，操作系统在用户代码和内核代码中不停切换，性能急剧下降。
 
@@ -204,11 +205,11 @@ OpenGL 全称是 Open Graphics Library, 是一个图像编程库，与 DirectX �
 IIS 支持 User 模式缓存与 Kernel 模式缓存，都只是缓存指定后缀名的文件，区别就是 Kernel 模式的缓存不允许 Url 有查询字符串，User 模式允许。
 配置步骤如下：
 
-![Alt text](images/7.jpg)
+![](https://github.com/ilovezcd/Performance/blob/master/Images/7.jpg)
 
-![Alt text](images/8.jpg)
+![](https://github.com/ilovezcd/Performance/blob/master/Images/8.jpg)
 
-![Alt text](images/9.jpg)
+![](https://github.com/ilovezcd/Performance/blob/master/Images/9.jpg)
 
 
 ###六.Angular Js
