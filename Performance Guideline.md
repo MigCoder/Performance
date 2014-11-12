@@ -55,7 +55,7 @@ B：
 
 A:
 
-![Alt text](images/1.jpg)
+![Alt text](http://github.com/ilovezcd/performance/raw/master/images/1.jpg)
 
 B:
 
