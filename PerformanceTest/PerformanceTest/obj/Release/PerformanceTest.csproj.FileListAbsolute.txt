@@ -1,0 +1,5 @@
+C:\Users\shinetech\Desktop\Performance\PerformanceTest\PerformanceTest\bin\Release\PerformanceTest.exe.config
+C:\Users\shinetech\Desktop\Performance\PerformanceTest\PerformanceTest\bin\Release\PerformanceTest.exe
+C:\Users\shinetech\Desktop\Performance\PerformanceTest\PerformanceTest\bin\Release\PerformanceTest.pdb
+C:\Users\shinetech\Desktop\Performance\PerformanceTest\PerformanceTest\obj\Release\PerformanceTest.exe
+C:\Users\shinetech\Desktop\Performance\PerformanceTest\PerformanceTest\obj\Release\PerformanceTest.pdb

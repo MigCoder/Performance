@@ -1,0 +1,7 @@
+C:\Users\ilove_000\Desktop\PerformanceTest\PerformanceTest\bin\Debug\PerformanceTest.exe.config
+C:\Users\shinetech\Desktop\Performance\PerformanceTest\PerformanceTest\bin\Debug\PerformanceTest.exe.config
+C:\Users\shinetech\Desktop\Performance\PerformanceTest\PerformanceTest\bin\Debug\PerformanceTest.exe
+C:\Users\shinetech\Desktop\Performance\PerformanceTest\PerformanceTest\bin\Debug\PerformanceTest.pdb
+C:\Users\shinetech\Desktop\Performance\PerformanceTest\PerformanceTest\obj\Debug\PerformanceTest.csprojResolveAssemblyReference.cache
+C:\Users\shinetech\Desktop\Performance\PerformanceTest\PerformanceTest\obj\Debug\PerformanceTest.exe
+C:\Users\shinetech\Desktop\Performance\PerformanceTest\PerformanceTest\obj\Debug\PerformanceTest.pdb
