@@ -1,0 +1,13 @@
+C:\Users\shinetech\Desktop\Cloo\Cloo\bin\Debug\Cloo.dll.config
+C:\Users\shinetech\Desktop\Cloo\Cloo\bin\Debug\Cloo.dll
+C:\Users\shinetech\Desktop\Cloo\Cloo\bin\Debug\Cloo.pdb
+C:\Users\shinetech\Desktop\Cloo\Cloo\bin\Debug\Cloo.xml
+C:\Users\shinetech\Desktop\Cloo\Cloo\obj\Debug\Cloo.VS2010.csprojResolveAssemblyReference.cache
+C:\Users\shinetech\Desktop\Cloo\Cloo\obj\Debug\Cloo.dll
+C:\Users\shinetech\Desktop\Cloo\Cloo\obj\Debug\Cloo.pdb
+C:\Users\shinetech\Desktop\RingClip\Cloo\bin\Debug\Cloo.dll.config
+C:\Users\shinetech\Desktop\RingClip\Cloo\bin\Debug\Cloo.dll
+C:\Users\shinetech\Desktop\RingClip\Cloo\bin\Debug\Cloo.pdb
+C:\Users\shinetech\Desktop\RingClip\Cloo\bin\Debug\Cloo.xml
+C:\Users\shinetech\Desktop\RingClip\Cloo\obj\Debug\Cloo.dll
+C:\Users\shinetech\Desktop\RingClip\Cloo\obj\Debug\Cloo.pdb

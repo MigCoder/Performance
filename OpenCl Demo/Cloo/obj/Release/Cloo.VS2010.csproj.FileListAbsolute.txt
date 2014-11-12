@@ -1,0 +1,7 @@
+C:\Users\shinetech\Desktop\RingClip\Cloo\bin\Release\Cloo.dll.config
+C:\Users\shinetech\Desktop\RingClip\Cloo\bin\Release\Cloo.dll
+C:\Users\shinetech\Desktop\RingClip\Cloo\bin\Release\Cloo.pdb
+C:\Users\shinetech\Desktop\RingClip\Cloo\bin\Release\Cloo.xml
+C:\Users\shinetech\Desktop\RingClip\Cloo\obj\Release\Cloo.VS2010.csprojResolveAssemblyReference.cache
+C:\Users\shinetech\Desktop\RingClip\Cloo\obj\Release\Cloo.dll
+C:\Users\shinetech\Desktop\RingClip\Cloo\obj\Release\Cloo.pdb
